@@ -83,7 +83,6 @@ namespace gproNet
 			// client receives greeting, just print it
 			ReadTest(bitstream);
 		}	return true;
-
 		}
 		return false;
 	}

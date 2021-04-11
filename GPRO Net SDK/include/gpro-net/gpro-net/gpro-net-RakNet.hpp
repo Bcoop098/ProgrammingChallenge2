@@ -53,6 +53,7 @@ namespace gproNet
 	enum eMessageCommon
 	{
 		ID_GPRO_MESSAGE_COMMON_BEGIN = ID_USER_PACKET_ENUM,
+		ID_GAME_MESSAGE,
 
 
 
