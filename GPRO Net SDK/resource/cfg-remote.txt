@@ -1,0 +1,19 @@
+localhost
+
+# Remote Debugging Configuration
+# Provided by Daniel S. Buckstein
+# Only the first line of this file is used, and must have one of the following formats: 
+#	computername
+#	ipaddress
+#	computername:port
+#	ipaddress:port
+# Descriptions: 
+#	"computername" is the name of the target machine for remote debugging
+#	"ipaddress" is the IP address of the target machine for remote debugging
+#	"port" is the port opened by the remote debugger on the target machine
+# If one of the above formats does not work, use a different format.
+#	(e.g. cannot find target machine by name, use remote's IP address)
+# Pro tip: remote debugger also works locally if one of the following is used: 
+#	computername of the local machine
+#	localhost
+#	127.0.0.1
